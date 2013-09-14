@@ -1,0 +1,15 @@
+{
+  "name": "reservoirjs-math",
+  "version": "0.0.1",
+  "description": "reservoir.js-math",
+  "main": "./lib/main.js",
+  "lib": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "coffee --compile --output lib/ src/",
+    "debug": "npm run-script build && coffee src/main.coffee"
+  },
+  "repository": "",
+  "author": "Julian Bilcke <julian.bilcke@daizoru.com>",
+  "license": "BSD"
+}

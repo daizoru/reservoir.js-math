@@ -1,0 +1,21 @@
+{
+  "name": "reservoirjs-math",
+  "version": "0.0.0",
+  "homepage": "https://github.com/daizoru/reservoir.js-math",
+  "authors": [
+    "Julian Bilcke <julian.bilcke@daizoru.com>"
+  ],
+  "description": "reservoir.js-math",
+  "main": "lib/main.js",
+  "keywords": [
+    "reservoir"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
