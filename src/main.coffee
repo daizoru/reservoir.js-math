@@ -1,11 +1,4 @@
-root = if window?
-    window.reservoir ?= {}
-    window.reservoir.math = {}
-    window.reservoir.math
-  else
-    module.exports
-
-root = [
+module.exports = [
     rnd0   : Math.random
     E      : -> Math.E
     LN2    : -> Math.LN2

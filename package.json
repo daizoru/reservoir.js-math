@@ -1,6 +1,6 @@
 {
   "name": "reservoirjs-math",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "reservoir.js-math",
   "main": "./lib/main.js",
   "lib": "./lib",
